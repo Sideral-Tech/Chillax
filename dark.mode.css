@@ -179,32 +179,6 @@
 }
 
 /*--FANCY CSS CODES--*/
-/*discord wordmark*/
-.wordmark-2u86JB path {
-  display: none !important;
-}
-
-.theme-dark .wordmark-2u86JB::before {
-  content: "‏‏‎ c h i l l a x";
-  font-size: 12px;
-  font-family: "Poiret one" !important;
-  position: fixed;
-  color: rgb(255, 255, 255);
-  background: var(--window-colour);
-  backdrop-filter: blur(var(--window-blur));
-  border-radius: 5px;
-  padding: 7px 11px 7px 7px;
-  margin-left: 20px;
-  margin-top: 5px;
-  pointer-events: all;
-  transition: 0.5s ease-in-out;
-}
-
-.wordmark-2u86JB:hover:before {
-  content: "‏‏‎ c h i l l a x";
-  letter-spacing: 2px;
-}
-
 /* button design*/
 .theme-dark .lookFilled-1H2Jvj {
   border-radius: 45px;
