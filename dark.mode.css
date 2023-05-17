@@ -2375,6 +2375,9 @@ background-color: #333135;
 margin-top: 5px;
 padding: 2px;
 }
+.field-21XZwa:first-child {
+  margin-bottom: 0 !important;
+}
 .field-21XZwa:last-child {
     margin-right: 0 !important;
 }
