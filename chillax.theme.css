@@ -23,19 +23,19 @@
 */
 
 /*chillax*/
-@import url('https://raw.githubusercontent.com/Sideral-Tech/Chillax/main/chillax.css');
+@import url('https://sideral-tech.github.io/chillax/chillax.css');
 
 /*removable addons*/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
-@import url("https://raw.githubusercontent.com/Sideral-Tech/Chillax/main/Addons/IconPackEdited.css");
-@import url("https://raw.githubusercontent.com/Sideral-Tech/Chillax/main/Addons/AvatarOnlyMemberList.css");
-@import url("https://raw.githubusercontent.com/Sideral-Tech/Chillax/main/Addons/FolderRedesign.css");
+@import url("https://sideral-tech.github.io/chillax/Addons/IconPackEdited.css");
+@import url("https://sideral-tech.github.io/chillax/Addons/AvatarOnlyMemberList.css");
+@import url("https://sideral-tech.github.io/chillax/Addons/FolderRedesign.css");
 
 /*additional addons*/
 /*(remove the both * to use)*/
-/*@import url("https://raw.githubusercontent.com/Sideral-Tech/Chillax/main/Addons/SimpleLessLag.css");*/
+@import url("https://sideral-tech.github.io/chillax/Addons/SimpleLessLag.css");
 
 
 
