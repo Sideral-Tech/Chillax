@@ -1276,10 +1276,6 @@ div[class*="wrapper-3Un6-K"][aria-label*="Online"]>svg[class="mask-1y0tyc svg-1G
   justify-content: center;
 }
 
-#status-picker .item-1OdjEX:not(#status-picker-custom-status, #status-picker-switch-account) .status-3TYC5W {
-  display: none;
-}
-
 #status-picker .description-3Cwkxk {
   display: none;
 }
@@ -1744,15 +1740,8 @@ div[class*="wrapper-3Un6-K"][aria-label*="Online"]>svg[class="mask-1y0tyc svg-1G
 }
 
 .panels-3wFtMD>.container-YkUktl .flex-2S1XBF> :not(:last-child) {
-  opacity: 0% !important;
-  width: 50px;
-  transition: all 0.3s;
-}
-
-.panels-3wFtMD>.container-YkUktl:hover .flex-2S1XBF> :not(:last-child) {
-  opacity: 100% !important;
   width: 32px;
-  margin-left: 10px;
+  margin-left: 8px;
 }
 
 .button-12Fmur[aria-label="User Settings"] {
@@ -1782,15 +1771,9 @@ div[class*="wrapper-3Un6-K"][aria-label*="Online"]>svg[class="mask-1y0tyc svg-1G
 }
 
 .avatarWrapper-1B9FTW {
-  max-width: 36px;
-  min-width: 36px;
-  transition: 0.3s;
-}
-
-.avatarWrapper-1B9FTW:hover {
-  max-width: 207px;
-  min-width: 207px;
-  transition: 0.3s;
+  max-width: 80px;
+  min-width: 80px;
+  margin-right: 0 !important;
 }
 
 /*Custom SpotifyControl in user panel*/
