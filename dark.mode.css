@@ -2892,6 +2892,8 @@ html .channelTabs-newTab {
 .typing-2J1mQU strong:after {
   content: ',';
   margin-right: 4px;
+  margin-top: 0 !important;
+  margin-left: 0 !important;
 }
 
 .typing-2J1mQU strong:nth-last-child(2)::after {
